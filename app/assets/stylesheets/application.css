@@ -14,8 +14,12 @@
  *= require_self
  */
 body {
-  color: #424242;
+  background-image: url("mountains.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
   background-color: #ECEFF1;
+  color: #424242;
   font-family: sans-serif;
 }
 
