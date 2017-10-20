@@ -121,7 +121,7 @@ li:hover{
   width: 62%;
 }
 
-#add-new-todo-button {
+.add-new-todo-button {
   display: block;
   background-color: #03A9F4;
   width: 100px;
@@ -145,7 +145,7 @@ h2 {
   width: 130px;
 }
 
-#edit-todo-button {
+.edit-todo-button {
   display: inline-block;
   width: 40px;
   background-color: #1ABC9C;
