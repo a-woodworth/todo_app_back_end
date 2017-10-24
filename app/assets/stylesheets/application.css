@@ -14,7 +14,7 @@
  *= require_self
  */
 body {
-  background-image: url("mountains.jpg");
+  background-image: url("/assets/mountains.jpg");
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
